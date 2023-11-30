@@ -2,6 +2,7 @@
 Course project, IIT Guwahati bit.ly/LLM-finetuning
 
 – Trained model to identify and clone the author’s (such as William Shakespeare, Jane Austen) writing style to generate new response from a given text prompt as input.
+
 – While developing the model, we used a Markov-chain based model to predict the next words. We also fine-tuned a LLM (GPT-2) model to generate better response on the given data
 
 
